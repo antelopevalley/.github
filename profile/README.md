@@ -1,4 +1,3 @@
-## SDLC Overview
 
 <!--
 
